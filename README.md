@@ -31,5 +31,5 @@ pip install -r requirements.txt
 2. Run the script:
 
 ```bash
-python password_generator.py
+python main.py
 ```
